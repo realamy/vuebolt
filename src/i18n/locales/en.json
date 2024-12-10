@@ -1,0 +1,18 @@
+{
+  "reviews_and_ratings": "Reviews & Ratings",
+  "total_reviews": "Total Reviews",
+  "stars": "stars",
+  "star": "star",
+  "filter_by_rating": "Filter by Rating",
+  "sort_by": "Sort by",
+  "all_ratings": "All Ratings",
+  "most_recent": "Most Recent",
+  "oldest": "Oldest",
+  "highest_rating": "Highest Rating",
+  "lowest_rating": "Lowest Rating",
+  "most_helpful": "Most Helpful",
+  "helpful": "Helpful",
+  "report_review": "Report Review",
+  "freelancer_response": "Freelancer Response",
+  "error_loading_reviews": "Error loading reviews"
+}
